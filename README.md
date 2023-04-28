@@ -15,7 +15,7 @@ This repo contains the dataset and codes used in the paper “ML4FF: a benchmark
 
 The ML4FF.py file contains the Python code developed to implement the ML4FF benchmark.
 
-Summary.xlsx and Summary.xlsx are two Excel spreadsheets created using the functions build_excel and perf_excel, respectively, of the ML4FF.py file. The use of such functions is documented within the ML4FF.py file.
+Summary.xlsx and Summary_Perf.xlsx are two Excel spreadsheets created using the functions build_excel and perf_excel, respectively, of the ML4FF.py file. The use of such functions is documented within the ML4FF.py file.
 
 The data folder contains the dataset considered in the ML4FF benchmark.
 
