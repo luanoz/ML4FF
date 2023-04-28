@@ -10,6 +10,7 @@ This repo contains the dataset and codes used in the paper “ML4FF: a benchmark
  * [data](./data)
  * [docs](./docs)
  * [Models](./Models)
+ * [figs](./figs)
  * [LICENSE](./LICENSE)
  * [README.md](./README.md)
 
@@ -19,6 +20,8 @@ Summary.xlsx and Summary_Perf.xlsx are two Excel spreadsheets created using the 
 
 The data folder contains the dataset considered in the ML4FF benchmark.
 
-The docs folder contains supplementary materials produced for the paper (extra figures)
+The docs folder contains the Readme file with general information on the code.
 
 The Models folder contains the pickled results of the benchmarks run for all the 32 algorithms. These files can be imported and manipulated, as documented within the ML4FF.py file.
+
+The figs folder contains PDF files of all the figures generated in this research, including those not presented in the paper due to space limitations.
