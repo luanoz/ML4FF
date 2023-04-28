@@ -10,6 +10,7 @@ This repo contains the dataset and codes used in the paper “ML4FF: a benchmark
  * [data](./data)
  * [docs](./docs)
  * [Models](./Models)
+ * [LICENSE](./LICENSE)
  * [README.md](./README.md)
 
 The ML4FF.py file contains the Python code developed to implement the ML4FF benchmark.
